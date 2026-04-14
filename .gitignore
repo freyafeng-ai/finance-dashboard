@@ -1,0 +1,12 @@
+# Large raw data files
+大社区成本/raw data/*.xlsx
+*.xlsx
+*.m4a
+*.zip
+*.png
+*.docx
+.clawhub/
+.openclaw/
+.redInfo
+memory/
+skills/
